@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tejaswinirajashekara/Colorectal_Cancer_Prediction/mlruns/0/de87d5609bfd43bf90c9ca5b95b17945/artifacts
+end_time: 1747494842997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de87d5609bfd43bf90c9ca5b95b17945
+run_name: funny-fox-314
+run_uuid: de87d5609bfd43bf90c9ca5b95b17945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747494835558
+status: 3
+tags: []
+user_id: tejaswinirajashekara
